@@ -1,0 +1,5 @@
+rootProject.name = "CameraXFragment"
+
+include ':camerax'
+include ':app'
+include ':matisse'

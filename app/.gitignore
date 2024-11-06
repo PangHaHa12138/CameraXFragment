@@ -1,0 +1,16 @@
+/build
+*.hprof
+.gradle/*
+*.bak
+build/*
+*/build/*
+.idea/*
+.test/*
+.externalNativeBuild
+gradle/*
+local.properties
+*.properties
+*.iml
+.DS_Store
+dbMaster/
+www/*
