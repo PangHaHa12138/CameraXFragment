@@ -1,6 +1,6 @@
 # CameraXFragment
 
-![icon](https://user-images.githubusercontent.com/15169396/147327054-5065aafc-5bb3-4477-8877-21b39212f4a9.png)
+![icon](https://github.com/PangHaHa12138/CameraXFragment/blob/main/app/src/main/ic_launcher-playstore.png)
 
 
 使用CameraX 简单的封装了拍照，录制视频的CameraXFragment,可以实现类似微信录像拍照效果，点击拍照 长按录像
